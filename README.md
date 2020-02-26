@@ -13,4 +13,4 @@ To design the homepages (Desktop & Mobile), i've used the software Figma.
 
 ## Link
 
-You can see the page [here](https://switco.github.io/webProject1/)
+You can see the page [here](https://switco.github.io/web_project_1/)

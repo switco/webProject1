@@ -8,7 +8,7 @@ I was on charge of creating a brand, with a whole identity, and realize the home
 
 ## Documentation
 
-You can find every documentation that i've made in the documentation file. 
+You can find every documentation that i've made in the documentation folder. 
 To design the homepages (Desktop & Mobile), i've used the software Figma.
 
 ## Link
